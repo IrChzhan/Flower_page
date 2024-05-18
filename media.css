@@ -1,0 +1,36 @@
+@media (max-width: 760px) {
+    #flower {
+        position: fixed;
+        top: 0;
+        margin-left: -170px;
+        width: 50%;
+        height: 30%;
+    }
+    #welcome {
+        margin-top: 220px;
+        font-size: 30px;
+    }
+    #today {
+        display: none;
+    }
+    #today_2 {
+        display: none;
+    }
+    #today_4 {
+        height: 60px;
+        width: 60%;
+        margin-left: 140px;
+        text-align: center;
+        display: flex;
+    }
+    #hr {
+        margin-left: 150px;
+    }
+    #today_3 {
+        display: none;
+    }
+    #hr_2 {
+        margin-top: 20px;
+        margin-left: 120px;
+    }
+}
